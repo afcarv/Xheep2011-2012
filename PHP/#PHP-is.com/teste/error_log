@@ -1,0 +1,153 @@
+[19-Apr-2012 18:31:09] PHP Parse error:  syntax error, unexpected '}' in /home/impresso/public_html/teste/campaign.php on line 697
+[19-Apr-2012 18:33:27] PHP Warning:  include(arrext01.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/campaign.php on line 83
+[19-Apr-2012 18:33:27] PHP Warning:  include(arrext01.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/campaign.php on line 83
+[19-Apr-2012 18:33:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'arrext01.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/campaign.php on line 83
+[19-Apr-2012 18:33:27] PHP Warning:  include(inqlayout.css) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/campaign.php on line 84
+[19-Apr-2012 18:33:27] PHP Warning:  include(inqlayout.css) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/campaign.php on line 84
+[19-Apr-2012 18:33:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'inqlayout.css' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/campaign.php on line 84
+[20-Apr-2012 10:08:21] PHP Parse error:  syntax error, unexpected ')', expecting T_VARIABLE or '$' in /home/impresso/public_html/teste/campaign.php on line 98
+[20-Apr-2012 23:46:40] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 684
+[20-Apr-2012 23:47:21] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 686
+[20-Apr-2012 23:47:21] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 686
+[20-Apr-2012 23:48:22] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 686
+[20-Apr-2012 23:48:23] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 686
+[20-Apr-2012 23:48:23] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 686
+[20-Apr-2012 23:48:27] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 686
+[20-Apr-2012 23:49:27] PHP Parse error:  syntax error, unexpected '}' in /home/impresso/public_html/teste/campaign.php on line 738
+[20-Apr-2012 23:49:27] PHP Parse error:  syntax error, unexpected '}' in /home/impresso/public_html/teste/campaign.php on line 738
+[20-Apr-2012 23:49:56] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 738
+[20-Apr-2012 23:49:57] PHP Parse error:  syntax error, unexpected T_ELSE in /home/impresso/public_html/teste/campaign.php on line 738
+[20-Apr-2012 23:51:51] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 788
+[20-Apr-2012 23:51:54] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 788
+[20-Apr-2012 23:51:59] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 788
+[20-Apr-2012 23:53:40] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 790
+[20-Apr-2012 23:53:44] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 790
+[20-Apr-2012 23:55:09] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 790
+[21-Apr-2012 00:02:58] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 784
+[21-Apr-2012 00:04:43] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 774
+[21-Apr-2012 00:16:50] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 774
+[21-Apr-2012 00:18:06] PHP Parse error:  syntax error, unexpected '<' in /home/impresso/public_html/teste/campaign.php on line 703
+[21-Apr-2012 00:18:09] PHP Parse error:  syntax error, unexpected '<' in /home/impresso/public_html/teste/campaign.php on line 703
+[21-Apr-2012 00:19:48] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 776
+[21-Apr-2012 00:19:51] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/campaign.php on line 776
+[21-Apr-2012 14:28:45] PHP Fatal error:  Call to undefined function arrfre() in /home/impresso/public_html/teste/campaign.php on line 722
+[21-Apr-2012 14:30:21] PHP Fatal error:  Call to undefined function arrfre() in /home/impresso/public_html/teste/campaign.php on line 722
+[21-Apr-2012 14:30:58] PHP Fatal error:  Call to undefined function arrfre() in /home/impresso/public_html/teste/campaign.php on line 722
+[21-Apr-2012 14:31:02] PHP Fatal error:  Call to undefined function arrfre() in /home/impresso/public_html/teste/campaign.php on line 722
+[21-Apr-2012 14:35:01] PHP Parse error:  syntax error, unexpected '<' in /home/impresso/public_html/teste/campaign.php on line 466
+[21-Apr-2012 14:36:12] PHP Fatal error:  Call to undefined function arrfre() in /home/impresso/public_html/teste/campaign.php on line 721
+[21-Apr-2012 14:37:40] PHP Fatal error:  Call to undefined function arrfre() in /home/impresso/public_html/teste/campaign.php on line 721
+[21-Apr-2012 14:43:03] PHP Parse error:  syntax error, unexpected '}' in /home/impresso/public_html/teste/campaign.php on line 801
+[23-Apr-2012 16:41:55] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 24
+[23-Apr-2012 16:45:54] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/impresso/public_html/teste/contact.php on line 35
+[23-Apr-2012 16:46:23] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:24] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:26] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:26] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:26] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:27] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:27] PHP Fatal error:  Class 'JRequest' not found in /home/impresso/public_html/teste/contact.php on line 29
+[23-Apr-2012 16:46:43] PHP Fatal error:  Class 'JRoute' not found in /home/impresso/public_html/teste/contact.php on line 225
+[23-Apr-2012 17:04:04] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/impresso/public_html/teste/contact.php on line 21
+[23-Apr-2012 17:04:51] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/impresso/public_html/teste/contact.php on line 21
+[23-Apr-2012 17:04:53] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/impresso/public_html/teste/contact.php on line 21
+[23-Apr-2012 17:12:06] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/impresso/public_html/teste/contact.php on line 21
+[23-Apr-2012 17:13:02] PHP Parse error:  syntax error, unexpected '<' in /home/impresso/public_html/teste/contact.php on line 19
+[23-Apr-2012 17:14:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/impresso/public_html/teste/contact.php:2) in /home/impresso/public_html/teste/contact.php on line 11
+[23-Apr-2012 17:19:58] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/impresso/public_html/teste/contact.php on line 328
+[28-Apr-2012 00:11:09] PHP Fatal error:  Class 'JRoute' not found in /home/impresso/public_html/teste/contact.php on line 246
+[28-Apr-2012 00:21:05] PHP Fatal error:  Class 'JUtility' not found in /home/impresso/public_html/teste/contact.php on line 182
+[28-Apr-2012 16:46:51] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/impresso/public_html/teste/contact.php on line 211
+[28-Apr-2012 16:47:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/impresso/public_html/teste/contact.php:2) in /home/impresso/public_html/teste/contact.php on line 218
+[28-Apr-2012 16:55:48] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/impresso/public_html/teste/contact.php on line 154
+[28-Apr-2012 16:56:30] PHP Parse error:  syntax error, unexpected '}' in /home/impresso/public_html/teste/contact.php on line 294
+[28-Apr-2012 17:11:03] PHP Warning:  require_once(teste/php_mailer/class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/contact.php on line 11
+[28-Apr-2012 17:11:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'teste/php_mailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/contact.php on line 11
+[29-Apr-2012 19:42:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/impresso/public_html/teste/email.php on line 35
+[29-Apr-2012 19:44:35] PHP Warning:  require_once(PHPMailer/class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/email.php on line 2
+[29-Apr-2012 19:44:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/email.php on line 2
+[29-Apr-2012 19:47:20] PHP Parse error:  syntax error, unexpected '(', expecting T_CATCH in /home/impresso/public_html/teste/email.php on line 49
+[29-Apr-2012 19:48:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/impresso/public_html/teste/email.php:56) in /home/impresso/public_html/teste/email.php on line 57
+[29-Apr-2012 21:51:43] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/impresso/public_html/teste/php_mailer/class.phpmailer.php:498
+Stack trace:
+#0 /home/impresso/public_html/teste/php_mailer/class.phpmailer.php(438): PHPMailer->AddAnAddress('to', NULL, 'jhhhkj')
+#1 /home/impresso/public_html/teste/email.php(27): PHPMailer->AddAddress(NULL, 'jhhhkj')
+#2 {main}
+  thrown in /home/impresso/public_html/teste/php_mailer/class.phpmailer.php on line 498
+[03-May-2012 12:04:08] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/impresso/public_html/teste/php_mailer/class.phpmailer.php:498
+Stack trace:
+#0 /home/impresso/public_html/teste/php_mailer/class.phpmailer.php(438): PHPMailer->AddAnAddress('to', NULL, 'asdfas')
+#1 /home/impresso/public_html/teste/email.php(32): PHPMailer->AddAddress(NULL, 'asdfas')
+#2 {main}
+  thrown in /home/impresso/public_html/teste/php_mailer/class.phpmailer.php on line 498
+[11-May-2012 10:30:10] PHP Warning:  include(../us/us121.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 10:30:10] PHP Warning:  include(../us/us121.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 10:30:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../us/us121.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 10:30:10] PHP Warning:  ftp_login() [<a href='function.ftp-login'>function.ftp-login</a>]: This is a private system - No anonymous login in /home/impresso/public_html/teste/ftp01.php on line 24
+[11-May-2012 10:30:10] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: This is a private system - No anonymous login in /home/impresso/public_html/teste/ftp01.php on line 28
+[11-May-2012 13:35:32] PHP Warning:  include(../us/us121.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 13:35:32] PHP Warning:  include(../us/us121.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 13:35:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../us/us121.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 13:35:32] PHP Warning:  ftp_login() [<a href='function.ftp-login'>function.ftp-login</a>]: This is a private system - No anonymous login in /home/impresso/public_html/teste/ftp01.php on line 26
+[11-May-2012 13:35:32] PHP Warning:  ftp_put(/home/impresso/public_html/teste/calendarios/ficheiro01) [<a href='function.ftp-put'>function.ftp-put</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 30
+[11-May-2012 13:35:32] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 41
+[11-May-2012 13:36:21] PHP Warning:  include(../us/us121.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 13:36:21] PHP Warning:  include(../us/us121.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 13:36:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../us/us121.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/ftp01.php on line 6
+[11-May-2012 13:36:21] PHP Warning:  ftp_login() [<a href='function.ftp-login'>function.ftp-login</a>]: This is a private system - No anonymous login in /home/impresso/public_html/teste/ftp01.php on line 26
+[11-May-2012 13:36:21] PHP Warning:  ftp_put(/home/impresso/public_html/teste/calendarios/ficheiro01) [<a href='function.ftp-put'>function.ftp-put</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 30
+[11-May-2012 13:36:21] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 41
+[11-May-2012 13:36:33] PHP Warning:  ftp_login() [<a href='function.ftp-login'>function.ftp-login</a>]: Login authentication failed in /home/impresso/public_html/teste/ftp01.php on line 30
+[11-May-2012 13:36:33] PHP Warning:  ftp_put(/home/impresso/public_html/teste/calendarios/ficheiro01) [<a href='function.ftp-put'>function.ftp-put</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 34
+[11-May-2012 13:36:33] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 45
+[11-May-2012 13:36:39] PHP Warning:  ftp_login() [<a href='function.ftp-login'>function.ftp-login</a>]: Login authentication failed in /home/impresso/public_html/teste/ftp01.php on line 30
+[11-May-2012 13:36:39] PHP Warning:  ftp_put(/home/impresso/public_html/teste/calendarios/ficheiro01) [<a href='function.ftp-put'>function.ftp-put</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 34
+[11-May-2012 13:36:39] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 45
+[11-May-2012 13:56:42] PHP Warning:  ftp_put(/home/impresso/public_html/teste/calendarios/ficheiro01) [<a href='function.ftp-put'>function.ftp-put</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:56:42] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 13:58:09] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:58:09] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 13:58:58] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:58:58] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 13:59:00] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:59:00] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 13:59:01] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:59:01] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 13:59:02] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:59:02] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 13:59:03] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 40
+[11-May-2012 13:59:03] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 51
+[11-May-2012 14:03:24] PHP Warning:  ftp_put(C:\Users\user\Desktop\calendario(exemplo)) [<a href='function.ftp-put'>function.ftp-put</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 44
+[11-May-2012 14:03:24] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 55
+[11-May-2012 14:05:18] PHP Warning:  ftp_put() [<a href='function.ftp-put'>function.ftp-put</a>]: Can't open that file: No such file or directory in /home/impresso/public_html/teste/ftp01.php on line 44
+[11-May-2012 14:05:18] PHP Fatal error:  Cannot redeclare uploadmy() (previously declared in /home/impresso/public_html/teste/ftp01.php:5) in /home/impresso/public_html/teste/ftp01.php on line 55
+[27-May-2012 16:38:35] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:39:07] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:23] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:29] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:30] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:39] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:40] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:40] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:43:42] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:44:30] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:44:32] PHP Fatal error:  Class 'tc_calendar' not found in /home/impresso/public_html/teste/calendar1.php on line 2
+[27-May-2012 16:45:26] PHP Warning:  include_once(lang/localization.lib.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/impresso/public_html/teste/tc_calendar.php on line 155
+[27-May-2012 16:45:26] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'lang/localization.lib.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/impresso/public_html/teste/tc_calendar.php on line 155
+[19-Jun-2012 19:06:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 53
+[19-Jun-2012 19:10:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 53
+[19-Jun-2012 19:10:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 53
+[19-Jun-2012 19:11:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 51
+[19-Jun-2012 19:13:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 51
+[19-Jun-2012 19:13:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 51
+[19-Jun-2012 19:17:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 54
+[19-Jun-2012 19:18:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/impresso/public_html/teste/email.php on line 54
+[19-Jun-2012 19:20:23] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 60
+[19-Jun-2012 19:22:08] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 60
+[19-Jun-2012 20:43:49] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 60
+[19-Jun-2012 20:49:35] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 61
+[19-Jun-2012 20:50:06] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 61
+[19-Jun-2012 21:17:18] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 61
+[19-Jun-2012 21:18:44] PHP Fatal error:  Cannot access empty property in /home/impresso/public_html/teste/email.php on line 61
+[20-Jun-2012 16:12:37] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/confirm.php on line 115
+[20-Jun-2012 16:14:27] PHP Parse error:  syntax error, unexpected $end in /home/impresso/public_html/teste/confirm.php on line 114

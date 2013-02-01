@@ -1,0 +1,44 @@
+o load faz-se com:
+==================
+
+mysql -u root -p < load_al2009A.sql
+
+
+sendo o load_al2009A.sql:
+=========================
+LOAD DATA INFILE '/tmp/CM2009COD1A.txt'
+INTO TABLE munp3.al2009cmtot ;
+
+# o CM2009COD1A.txt posto no /tmp
+================================
+
+
+tambem posso usar load para apenas algumas colunas...
+===================================================
+LOAD DATA INFILE '/tmp/FM2010.txt'
+INTO TABLE munp1.fm02
+(cod_mun,ano,nom,pop_resid,pop_dorm,area,amp_alt,area_rnap,imp_mun,imp_partirs,ids,pop_presc,pop_pricic,pop_23cic,m19_fefcor,m19_fefcap,m19_feftot,m19_fsm,m19_irs,m19_tot)
+;
+
+
+
+E de seguida fazer um uodate
+=======================
+
+ update munp1.municip AS m set m.num_eleit = ( SELECT a.inscritos from munp3.al2009cmtot AS a WHERE m.cod=a.cod );
+
+
+e
+
+
+mysql> update al2009cm AS m set m.num_eleit = ( SELECT a.inscritos from
+al2009cmtot AS a WHERE m.cod=a.cod );
+Query OK, 308 rows affected (0.01 sec)
+Rows matched: 308  Changed: 308  Warnings: 0
+
+mysql> update al2009cm AS m set m.num_freg = ( SELECT a.freg from al2009cmtot
+AS a WHERE m.cod=a.cod );
+Query OK, 308 rows affected (0.02 sec)
+Rows matched: 308  Changed: 308  Warnings: 0
+
+

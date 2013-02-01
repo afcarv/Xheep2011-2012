@@ -1,0 +1,10 @@
+
+
+
+  // $x = JRoute::_('index.php?option=com_content&view=article&id='.$articleId.'&Itemid='.$itemid);
+  $y = 'index.php?option=com_content&view=article&id='.$articleId.'&Itemid='.$itemid;
+ // echo '<a href="' . $x . '&codcat=xxx' . '">xxxxxx</a>';
+   echo '<a href="' . $y . '&codcat=xxx' . '">yyyyyyyyy</a>';
+   
+   
+   

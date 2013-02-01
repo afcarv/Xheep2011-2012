@@ -1,0 +1,53 @@
+mysql> insert into  ynd9l_users (name, username , email, password, usertype, block , sendEmail, registerDate,lastvisitDate, activation,  params) 
+values ('andre','andre1','andre@anmo.pt',md5('789'),'2',0,0,'2012-01-22','','','');
+
+mysql> insert into ynd9l_user_usergroup_map (user_id, group_id) values (46,2); 
+
+mysql> select * from  ynd9l_user_profiles;
++---------+---------------------+-----------------------------+----------+
+| user_id | profile_key         | profile_value               | ordering |
++---------+---------------------+-----------------------------+----------+
+|      43 | profile.address1    |                             |        1 |
+|      43 | profile.address2    |                             |        2 |
+|      43 | profile.city        |                             |        3 |
+|      43 | profile.postal_code |                             |        4 |
+|      43 | profile.phone       |                             |        5 |
+|      43 | profile.website     |                             |        6 |
+|      43 | profile.aboutme     | tretas e Ca                 |        7 |
+|      43 | profile.tos         | 1                           |        8 |
+|      43 | profile.dob         |                             |        9 |
+|      44 | profile.address1    | endreço carlota 1           |        1 |
+|      44 | profile.address2    | endreço carlota 2           |        2 |
+|      44 | profile.city        | concelho carlota 1          |        3 |
+|      44 | profile.postal_code | codigo postal carlota 1     |        4 |
+|      44 | profile.phone       | telefone carlota 1          |        5 |
+|      44 | profile.website     | site da carlota             |        6 |
+|      44 | profile
+.aboutme     | descroçao livrea da carlota |        7 |
+|      44 | profile.tos         | 1                           |        8 |
+|      44 | profile.dob         |                             |        9 |
+|      45 | profile.aboutme     |                             |        7 |
+|      45 | profile.website     |                             |        6 |
+|      45 | profile.phone       |                             |        5 |
+|      45 | profile.postal_code |                             |        4 |
+|      45 | profile.city        |                             |        3 |
+|      45 | profile.address2    |                             |        2 |
+|      45 | profile.address1    |                             |        1 |
+|      45 | profile.dob         |                             |        8 |
++---------+---------------------+-----------------------------+----------+
+26 rows in set (0.00 sec)
+
+mysql> insert into ynd9l_user_profiles (user_id, profile_key,profile_value,ordering) values (47,'profileaplelido', 'carvalho','1');
+Query OK, 1 row affected (0.00 sec)
+
+
+
+mysql> update ynd9l_users set username='andre' where username='andre1';  // us47
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from  ynd9l_users;
+
+
+
+

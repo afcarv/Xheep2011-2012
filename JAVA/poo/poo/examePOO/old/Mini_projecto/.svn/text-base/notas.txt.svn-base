@@ -1,0 +1,65 @@
+user faz pedido
+
+pedido pode ser 'sistema' ou 'formação'
+
+pedido
+- numero pedido
+- numero utilizador
+- data
+
+pedido sistema
+- numero de posto
+. descrição do problema
+
+pedido formação
+- tema
+
+
+os pedidos têm varias intervenções
+
+intervenção um ou mais tecnicos
+
+intervenção
+- numero de intervenção
+- numero de pedido de suporte
+- numero do tecnico
+
+- descrição
+- data
+- duração
+- resolvido ou não
+
+
+posto de trabalho
+- numero do posto
+- cpu
+- ram
+- disco
+- OS
+
+
+registar tecnicos e users
+- numero
+- nome
+
+#####
+
+funcionalidades
+
+criar
+editar
+eleminar
+listar
+
+users, tecnicos, postos
+
+pedidos, intervenções (não resolvidos)
+
+estatisticas
+
+numero de pedidos
+numero de pedidos resolvidos
+tempo medio de resolução
+numero medio de intervenções por pedido
+ 
+

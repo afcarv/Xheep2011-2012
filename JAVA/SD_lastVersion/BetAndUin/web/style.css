@@ -1,0 +1,74 @@
+/* 
+    Document   : style
+    Created on : 21/Nov/2010, 17:41:51
+    Author     : jlnabais
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    background-color: black;
+}
+
+h1{
+    font-family: Rockwell Extra Bold;
+    font-size:  15px;
+    color: yellow;
+}
+
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Rockwell;
+    font-size:  12px;
+    color: yellow;
+}
+
+h3{
+    font-family: Rockwell;
+    font-size:  15px;
+    color: red;
+}
+
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Rockwell;
+    font-size:  12px;
+    color: yellow;
+    text-decoration: underline;
+}
+h5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Rockwell;
+    font-size:  10px;
+    color: #00FF00;
+    position:absolute;
+    right:0;
+    bottom:0;
+}
+form{
+    margin:0px;
+    padding:0px;
+}
+
+#chatbox{
+    width: 550px;
+    height: 300px;
+    background-color: white;
+    overflow: auto;
+}
+
+h7{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Rockwell;
+    font-size:  12px;
+    color: black;
+}

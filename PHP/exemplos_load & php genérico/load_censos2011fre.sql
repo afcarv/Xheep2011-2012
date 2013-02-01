@@ -1,0 +1,3 @@
+LOAD DATA INFILE '/tmp/pop2011TOTFRE.txt'
+INTO TABLE munp3.censos2011f01 ;
+
