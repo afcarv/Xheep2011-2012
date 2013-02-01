@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="package" author="true" classpath="." destdir="javadoc" doctitle="Project1 Documentation" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.6" sourcefiles="../src/n2006130876_Ticket.java,../src/User.java,../src/n2007103439_StationList.java,../src/n2006130876_Person.java,../src/n2007103439_Application.java,../src/n2006130876_Intervention.java,../src/Main.java,../src/n2006130876_Station.java,../src/n2007103439_TicketList.java,../src/n2006130876_TrainningTicket.java,../src/n2007103439_PersonList.java,../src/n2007103439_CustomList.java,../src/n2006130876_SystemTicket.java" sourcepath="../src" splitindex="true" use="true" version="true">
+            <link href="file:/D:/workspace/project1cml/docs/javadoc/"/>
+        </javadoc>
+    </target>
+</project>

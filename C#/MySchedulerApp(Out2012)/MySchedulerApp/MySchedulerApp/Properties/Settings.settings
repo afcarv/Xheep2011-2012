@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MySchedulerApp_XMPieAPIWS_JobTicket1_JobTicket_SSP" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://81.92.207.206/xmpiewsapi/JobTicket_SSP.asmx</Value>
+    </Setting>
+    <Setting Name="MySchedulerApp_XMPieAPIWS_Production_Production_SSP" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://81.92.207.206/xmpiewsapi/Production_SSP.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
